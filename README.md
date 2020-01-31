@@ -1,4 +1,4 @@
 # hello-world
-I followed the guide :/
+I followed the guide
 
 Hello.
